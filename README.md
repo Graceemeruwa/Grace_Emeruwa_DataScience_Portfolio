@@ -1,1 +1,2 @@
-This repository contains group and indidvidual projects carried out during the course of Women Techsters Feloowship Programme.
+This repository contains group and indidvidual projects carried out during the course of Women Techsters Felowship Programme.
+I have grown tremendiously since the onset of this programme through various data science projects i have worked on both individual and group project. kindly look through these project and i look forward to a chance of growing and becoming better with your organization. I am open to learning and I give my best to the support and growth of the organization i find myself. Thanks for your time.
